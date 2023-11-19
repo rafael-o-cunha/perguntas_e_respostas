@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(219, 217, 217);
+}
+
+.pergunta-header{
+    background-color: rgb(219, 217, 217);
+}
+
+#logoNavBar{
+    width: 75px;
+    height: auto;
+}
+
+.nav-link{
+    font-size: x-large;
+}
