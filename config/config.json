@@ -1,0 +1,14 @@
+{
+    "param": {
+      "port": 4000,
+      "database": {
+        "host": "localhost",
+        "user": "rafael",
+        "password": "123456",
+        "database": "db_perguntas"
+      }
+    },
+    "db": {
+      "generateTables": true
+    }
+}
