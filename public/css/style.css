@@ -1,9 +1,14 @@
 body{
-    background-color: rgb(219, 217, 217);
+    background-color: #ebe9e9
 }
 
-.pergunta-header{
-    background-color: rgb(219, 217, 217);
+.pergunta-body{
+    background-color: #EEEFF2
+}
+
+.container {
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 #logoNavBar{
