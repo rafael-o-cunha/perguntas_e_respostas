@@ -11,7 +11,7 @@ Praticando node.js o mais "roots" possível para conhecer a stack de desenvolvim
 - **Config**: Permite criar arquivos de configuração em seu aplicativo Node para diferentes ambientes de implantação.
 
 
-### Projeto finalizado (ideias de mhlorias):
+### Projeto finalizado (ideias de melhorias):
 - Perguntas podem ser respondidas e tem suas respostas sendo apresentadas logo abaixo.
   - melhoria: colorização da pergunta que foi respondida quando o autor der o ok!
   - criar estrelas para as respostas;
