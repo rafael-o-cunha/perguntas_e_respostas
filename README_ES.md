@@ -1,6 +1,6 @@
 <p align="center">
   <h1>
-    Perguntas e Respostas
+    Preguntas y respuestas
   <span>
       <img src="https://img.shields.io/badge/-DEPRECATED-8A2BE2?style=for-the-badge" alt="Deprecated">
   </span>
@@ -60,34 +60,34 @@
 
 ---
 
-## Sumário
+## Resumen
 
-- Sumário
-- Descrição
-- Ideias de Melhorias
-- Palavras chave
+- Resumen
+- Descripción
+- Ideas de mejora
+- Palabras clave
 
-## Descrição
+## Descripción
+ Este repositorio contiene un proyecto básico en JavaScript y Node.js que fue desarrollado con el propósito
+de practicar Node.js de la forma más “pura” posible para comprender toda la pila de desarrollo de JS.
 
-Este Repositório contém um projeto básico em Javascript e Node.js que foi desenvolvido com o propósito de praticar
-node.js o mais "roots" possível para conhecer a stack de desenvolvimento completa em Js.
+### Ideas de mejora
 
-### Ideias de melhorias
+- Las preguntas pueden responderse y sus respuestas se muestran debajo.
+  - Mejora: Colorear la pregunta respondida cuando el autor hace clic en ¡OK!
+  - Se añaden estrellas a las respuestas;
+  - Se añaden comentarios a las respuestas, enlazando así la visualización;
+- Se utilizó Sequelize en la rama principal;
+  - Se utilizó SQL puro;
+  - Se utilizó Prisma ORM;
+- Se utilizó EJS en el Frontend junto con Bootstrap;
+  - Se utilizó React en otra rama;
+  - Se utilizó Next.js en otra rama;
 
-- Perguntas podem ser respondidas e tem suas respostas sendo apresentadas logo abaixo.
-  - melhoria: colorização da pergunta que foi respondida quando o autor der o ok!
-  - criar estrelas para as respostas;
-  - criar comentários para as respostas encadeando assim a exibição;
-- foi utilizado Sequelize na branch principal
-  - utilizar SQL puro;
-  - utilizar Prisma ORM
-- foi utilizado EJS no Front juntamente com Boostrap
-  - utilizar React em outra branch
-  - utilizar NextJs em outra branch
 
-Sigo praticando as melhorias citadas em outros projetos...
+Sigo practicando las mejoras mencionadas en otros proyectos...
 
-### Palavras chave
+### Palabras clave
 
 - **EJS**
 - **Boostrap4**

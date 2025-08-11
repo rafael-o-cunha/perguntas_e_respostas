@@ -1,6 +1,6 @@
 <p align="center">
   <h1>
-    Perguntas e Respostas
+    Questions and Answers
   <span>
       <img src="https://img.shields.io/badge/-DEPRECATED-8A2BE2?style=for-the-badge" alt="Deprecated">
   </span>
@@ -60,34 +60,33 @@
 
 ---
 
-## Sumário
+## Summary
 
-- Sumário
-- Descrição
-- Ideias de Melhorias
+- Summary
+- Description
+- Improvement Ideas
 - Palavras chave
 
 ## Descrição
+ This repository contains a basic project in Javascript and Node.js that was developed with the purpose
+of practicing Node.js as "roots" as possible to understand the complete JS development stack.
 
-Este Repositório contém um projeto básico em Javascript e Node.js que foi desenvolvido com o propósito de praticar
-node.js o mais "roots" possível para conhecer a stack de desenvolvimento completa em Js.
+### Improvement Ideas
 
-### Ideias de melhorias
+- Questions can be answered and their answers are displayed below.
+  - Improvement: Colorization of the answered question when the author clicks OK!
+  - Stars are added to answers;
+  - Comments are added to answers, thus linking the display;
+- Sequelize was used in the main branch;
+  - Pure SQL was used;
+  - Prisma ORM was used
+- EJS was used in the Frontend along with Boostrap
+  - React was used in another branch
+  - NextJs was used in another branch
 
-- Perguntas podem ser respondidas e tem suas respostas sendo apresentadas logo abaixo.
-  - melhoria: colorização da pergunta que foi respondida quando o autor der o ok!
-  - criar estrelas para as respostas;
-  - criar comentários para as respostas encadeando assim a exibição;
-- foi utilizado Sequelize na branch principal
-  - utilizar SQL puro;
-  - utilizar Prisma ORM
-- foi utilizado EJS no Front juntamente com Boostrap
-  - utilizar React em outra branch
-  - utilizar NextJs em outra branch
+I continue to practice the improvements mentioned in other projects...
 
-Sigo praticando as melhorias citadas em outros projetos...
-
-### Palavras chave
+### Keywords
 
 - **EJS**
 - **Boostrap4**
