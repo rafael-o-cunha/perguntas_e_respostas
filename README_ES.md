@@ -58,7 +58,8 @@
 
 ## 📋 Resumen
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Preguntas y respuestas ** Este es un microproyecto educativo desarrollado en Node.js con el objetivo de practicar conceptos fundamentales de desarrollo web utilizando JavaScript/Node.js y el framework Express. Es una aplicación sencilla y orientada al aprendizaje que permite a los usuarios crear preguntas, visualizarlas y responder a las consultas de la comunidad, simulando funcionalidades esenciales de sistemas web reales.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Preguntas y respuestas** Este es un microproyecto educativo desarrollado en Node.js con el objetivo de practicar conceptos fundamentales de desarrollo web utilizando JavaScript/Node.js y el framework Express. Es una aplicación sencilla y orientada al aprendizaje que permite a los usuarios crear preguntas, visualizarlas y responder a las consultas de la comunidad, simulando funcionalidades esenciales de sistemas web reales.
+
 ---
 
 ## 🎯 ¿Qué es?
