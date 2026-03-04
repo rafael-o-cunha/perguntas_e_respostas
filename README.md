@@ -58,7 +58,7 @@
 
 ## 📋 Resumo
 
-**Perguntas e Respostas** é um microprojeto educacional desenvolvido em Node.js com o objetivo de praticar conceitos fundamentais de desenvolvimento web utilizando JavaScript/Node.js e o framework Express. Trata-se de uma aplicação simples, focada em aprendizado, que permite criar perguntas, visualizá‑las e responder dúvidas da comunidade, simulando funcionalidades essenciais presentes em sistemas web reais.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Perguntas e Respostas** é um microprojeto educacional desenvolvido em Node.js com o objetivo de praticar conceitos fundamentais de desenvolvimento web utilizando JavaScript/Node.js e o framework Express. Trata-se de uma aplicação simples, focada em aprendizado, que permite criar perguntas, visualizá‑las e responder dúvidas da comunidade, simulando funcionalidades essenciais presentes em sistemas web reais.
 
 ---
 
